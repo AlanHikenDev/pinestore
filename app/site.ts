@@ -3,7 +3,7 @@
 // @unocss-include
 
 export default {
-  title: 'VuCommerce',
+  title: 'QuantumStore',
   description: 'Vue Designer Nuxt Vuetify Tailwind CSS',
   logo: 'i-fluent-emoji:shopping-bags',
   author: 'Pinegrow',

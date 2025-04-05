@@ -24,5 +24,10 @@
     "dist": true,
     "tailwind_theme": true,
     ".unlighthouse": true
+  },
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#1B3404",
+    "titleBar.activeBackground": "#264906",
+    "titleBar.activeForeground": "#F2FDE8"
   }
 }

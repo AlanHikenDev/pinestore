@@ -313,6 +313,7 @@ export default defineNuxtConfig({
 
   unocss: {
     presets: [
+      //@ts-ignore
       presetIcons({
         prefix: 'i-', // default prefix, do not change
       }),
